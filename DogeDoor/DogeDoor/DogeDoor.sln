@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DogeDoor", "DogeDoor.csproj", "{8EDC59AC-94E6-446B-933E-22E27336DC4D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DogeDoorTests", "..\DogeDoorTests\DogeDoorTests.csproj", "{622DE790-54B3-41CF-BB46-B14C95C69392}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8EDC59AC-94E6-446B-933E-22E27336DC4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8EDC59AC-94E6-446B-933E-22E27336DC4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8EDC59AC-94E6-446B-933E-22E27336DC4D}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{8EDC59AC-94E6-446B-933E-22E27336DC4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8EDC59AC-94E6-446B-933E-22E27336DC4D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8EDC59AC-94E6-446B-933E-22E27336DC4D}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{622DE790-54B3-41CF-BB46-B14C95C69392}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{622DE790-54B3-41CF-BB46-B14C95C69392}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{622DE790-54B3-41CF-BB46-B14C95C69392}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{622DE790-54B3-41CF-BB46-B14C95C69392}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{622DE790-54B3-41CF-BB46-B14C95C69392}.Release|Any CPU.Build.0 = Release|Any CPU
+		{622DE790-54B3-41CF-BB46-B14C95C69392}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {51308962-5051-4F13-A694-4586F2B9E490}
+	EndGlobalSection
+EndGlobal

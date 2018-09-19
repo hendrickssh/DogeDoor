@@ -1,0 +1,68 @@
+C:\Users\Shane\source\repos\DogeDoor\bin\Debug\DogeDoor.dll
+C:\Users\Shane\source\repos\DogeDoor\bin\Debug\DogeDoor.pdb
+C:\Users\Shane\source\repos\DogeDoor\bin\Debug\DogeDoor.DogeDoor.apk
+C:\Users\Shane\source\repos\DogeDoor\bin\Debug\DogeDoor.DogeDoor-Signed.apk
+C:\Users\Shane\source\repos\DogeDoor\obj\Debug\DogeDoor.csprojResolveAssemblyReference.cache
+C:\Users\Shane\source\repos\DogeDoor\obj\Debug\DogeDoor.csproj.CoreCompileInputs.cache
+C:\Users\Shane\source\repos\DogeDoor\obj\Debug\DogeDoor.dll
+C:\Users\Shane\source\repos\DogeDoor\obj\Debug\DogeDoor.pdb
+C:\Users\Shane\source\repos\DogeDoor\obj\Debug\android\bin\DogeDoor.DogeDoor.apk
+C:\Users\Shane\source\repos\DogeDoor\obj\Debug\res\layout\main.xml
+C:\Users\Shane\source\repos\DogeDoor\obj\Debug\res\values\strings.xml
+C:\Users\Shane\source\repos\DogeDoor\obj\Debug\R.cs.flag
+C:\Users\Shane\source\repos\DogeDoor\obj\Debug\uploadflags.txt
+C:\Users\Shane\source\repos\DogeDoor\bin\Debug\DogeDoor.dll.mdb
+C:\Users\Shane\source\repos\DogeDoor\obj\Debug\android\assets\DogeDoor.dll.mdb
+C:\Users\Shane\source\repos\DogeDoor\obj\Debug\res\layout\doorcontrol.xml
+C:\Users\Shane\source\repos\DogeDoor\obj\Debug\res\drawable\icon.png
+D:\ProductForSE3730\Android Application\DogeDoor\DogeDoor\bin\Debug\DogeDoor.dll
+D:\ProductForSE3730\Android Application\DogeDoor\DogeDoor\bin\Debug\DogeDoor.pdb
+D:\ProductForSE3730\Android Application\DogeDoor\DogeDoor\bin\Debug\DogeDoor.DogeDoor.apk
+D:\ProductForSE3730\Android Application\DogeDoor\DogeDoor\bin\Debug\DogeDoor.DogeDoor-Signed.apk
+D:\ProductForSE3730\Android Application\DogeDoor\DogeDoor\obj\Debug\DogeDoor.csprojResolveAssemblyReference.cache
+D:\ProductForSE3730\Android Application\DogeDoor\DogeDoor\obj\Debug\DogeDoor.csproj.CoreCompileInputs.cache
+D:\ProductForSE3730\Android Application\DogeDoor\DogeDoor\obj\Debug\DogeDoor.dll
+D:\ProductForSE3730\Android Application\DogeDoor\DogeDoor\obj\Debug\DogeDoor.pdb
+D:\ProductForSE3730\Android Application\DogeDoor\DogeDoor\obj\Debug\android\bin\DogeDoor.DogeDoor.apk
+D:\ProductForSE3730\Android Application\DogeDoor\DogeDoor\obj\Debug\res\layout\main.xml
+D:\ProductForSE3730\Android Application\DogeDoor\DogeDoor\obj\Debug\res\layout\doorcontrol.xml
+D:\ProductForSE3730\Android Application\DogeDoor\DogeDoor\obj\Debug\res\values\strings.xml
+D:\ProductForSE3730\Android Application\DogeDoor\DogeDoor\obj\Debug\res\drawable\icon.png
+D:\ProductForSE3730\Android Application\DogeDoor\DogeDoor\obj\Debug\R.cs.flag
+D:\ProductForSE3730\Android Application\DogeDoor\DogeDoor\obj\Debug\uploadflags.txt
+D:\ProductForSE3730\Android Application\DogeDoor\DogeDoor\bin\Debug\DogeDoor.dll.mdb
+D:\ProductForSE3730\Android Application\DogeDoor\DogeDoor\obj\Debug\android\assets\DogeDoor.dll.mdb
+C:\Users\Shane\Desktop\New folder\Android Application\DogeDoor\DogeDoor\bin\Debug\DogeDoor.dll
+C:\Users\Shane\Desktop\New folder\Android Application\DogeDoor\DogeDoor\bin\Debug\DogeDoor.pdb
+C:\Users\Shane\Desktop\New folder\Android Application\DogeDoor\DogeDoor\bin\Debug\DogeDoor.DogeDoor.apk
+C:\Users\Shane\Desktop\New folder\Android Application\DogeDoor\DogeDoor\bin\Debug\DogeDoor.DogeDoor-Signed.apk
+C:\Users\Shane\Desktop\New folder\Android Application\DogeDoor\DogeDoor\obj\Debug\DogeDoor.csproj.CoreCompileInputs.cache
+C:\Users\Shane\Desktop\New folder\Android Application\DogeDoor\DogeDoor\obj\Debug\DogeDoor.dll
+C:\Users\Shane\Desktop\New folder\Android Application\DogeDoor\DogeDoor\obj\Debug\DogeDoor.pdb
+C:\Users\Shane\Desktop\New folder\Android Application\DogeDoor\DogeDoor\obj\Debug\android\bin\DogeDoor.DogeDoor.apk
+C:\Users\Shane\Desktop\New folder\Android Application\DogeDoor\DogeDoor\obj\Debug\res\layout\main.xml
+C:\Users\Shane\Desktop\New folder\Android Application\DogeDoor\DogeDoor\obj\Debug\res\layout\doorcontrol.xml
+C:\Users\Shane\Desktop\New folder\Android Application\DogeDoor\DogeDoor\obj\Debug\res\values\strings.xml
+C:\Users\Shane\Desktop\New folder\Android Application\DogeDoor\DogeDoor\obj\Debug\res\drawable\icon.png
+C:\Users\Shane\Desktop\New folder\Android Application\DogeDoor\DogeDoor\obj\Debug\R.cs.flag
+C:\Users\Shane\Desktop\New folder\Android Application\DogeDoor\DogeDoor\obj\Debug\uploadflags.txt
+C:\Users\Shane\Desktop\New folder\Android Application\DogeDoor\DogeDoor\bin\Debug\DogeDoor.dll.mdb
+C:\Users\Shane\Desktop\New folder\Android Application\DogeDoor\DogeDoor\obj\Debug\android\assets\DogeDoor.dll.mdb
+C:\Users\Shane\Desktop\New folder\Android Application\DogeDoor\DogeDoor\obj\Debug\DogeDoor.csprojResolveAssemblyReference.cache
+J:\Fall 2017\Quality\Android Application\DogeDoor\DogeDoor\bin\Debug\DogeDoor.dll
+J:\Fall 2017\Quality\Android Application\DogeDoor\DogeDoor\bin\Debug\DogeDoor.pdb
+J:\Fall 2017\Quality\Android Application\DogeDoor\DogeDoor\bin\Debug\DogeDoor.DogeDoor.apk
+J:\Fall 2017\Quality\Android Application\DogeDoor\DogeDoor\bin\Debug\DogeDoor.DogeDoor-Signed.apk
+J:\Fall 2017\Quality\Android Application\DogeDoor\DogeDoor\obj\Debug\DogeDoor.csprojResolveAssemblyReference.cache
+J:\Fall 2017\Quality\Android Application\DogeDoor\DogeDoor\obj\Debug\DogeDoor.dll
+J:\Fall 2017\Quality\Android Application\DogeDoor\DogeDoor\obj\Debug\DogeDoor.pdb
+J:\Fall 2017\Quality\Android Application\DogeDoor\DogeDoor\obj\Debug\android\bin\DogeDoor.DogeDoor.apk
+J:\Fall 2017\Quality\Android Application\DogeDoor\DogeDoor\obj\Debug\res\layout\main.xml
+J:\Fall 2017\Quality\Android Application\DogeDoor\DogeDoor\obj\Debug\res\layout\doorcontrol.xml
+J:\Fall 2017\Quality\Android Application\DogeDoor\DogeDoor\obj\Debug\res\values\strings.xml
+J:\Fall 2017\Quality\Android Application\DogeDoor\DogeDoor\obj\Debug\res\drawable\icon.png
+J:\Fall 2017\Quality\Android Application\DogeDoor\DogeDoor\obj\Debug\R.cs.flag
+J:\Fall 2017\Quality\Android Application\DogeDoor\DogeDoor\obj\Debug\uploadflags.txt
+J:\Fall 2017\Quality\Android Application\DogeDoor\DogeDoor\bin\Debug\DogeDoor.dll.mdb
+J:\Fall 2017\Quality\Android Application\DogeDoor\DogeDoor\obj\Debug\android\assets\DogeDoor.dll.mdb
+J:\Fall 2017\Quality\Android Application\DogeDoor\DogeDoor\obj\Debug\DogeDoor.dll.mdb

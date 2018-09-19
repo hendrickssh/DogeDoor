@@ -1,0 +1,57 @@
+C:\Users\Shane\Desktop\New folder\Android Application\DogeDoor\DogeDoorTests\bin\Debug\DogeDoorTests.dll
+C:\Users\Shane\Desktop\New folder\Android Application\DogeDoor\DogeDoorTests\bin\Debug\DogeDoorTests.pdb
+C:\Users\Shane\Desktop\New folder\Android Application\DogeDoor\DogeDoorTests\bin\Debug\DogeDoorTests.DogeDoorTests.apk
+C:\Users\Shane\Desktop\New folder\Android Application\DogeDoor\DogeDoorTests\bin\Debug\DogeDoorTests.DogeDoorTests-Signed.apk
+C:\Users\Shane\Desktop\New folder\Android Application\DogeDoor\DogeDoorTests\bin\Debug\DogeDoor.dll
+C:\Users\Shane\Desktop\New folder\Android Application\DogeDoor\DogeDoorTests\bin\Debug\DogeDoor.pdb
+C:\Users\Shane\Desktop\New folder\Android Application\DogeDoor\DogeDoorTests\bin\Debug\DogeDoor.dll.mdb
+C:\Users\Shane\Desktop\New folder\Android Application\DogeDoor\DogeDoorTests\obj\Debug\DogeDoorTests.csprojResolveAssemblyReference.cache
+C:\Users\Shane\Desktop\New folder\Android Application\DogeDoor\DogeDoorTests\obj\Debug\DogeDoorTests.csproj.CoreCompileInputs.cache
+C:\Users\Shane\Desktop\New folder\Android Application\DogeDoor\DogeDoorTests\obj\Debug\DogeDoorTests.dll
+C:\Users\Shane\Desktop\New folder\Android Application\DogeDoor\DogeDoorTests\obj\Debug\DogeDoorTests.pdb
+C:\Users\Shane\Desktop\New folder\Android Application\DogeDoor\DogeDoorTests\obj\Debug\android\bin\DogeDoorTests.DogeDoorTests.apk
+C:\Users\Shane\Desktop\New folder\Android Application\DogeDoor\DogeDoorTests\obj\Debug\res\drawable\icon.png
+C:\Users\Shane\Desktop\New folder\Android Application\DogeDoor\DogeDoorTests\obj\Debug\res\values\strings.xml
+C:\Users\Shane\Desktop\New folder\Android Application\DogeDoor\DogeDoorTests\obj\Debug\R.cs.flag
+C:\Users\Shane\Desktop\New folder\Android Application\DogeDoor\DogeDoorTests\obj\Debug\uploadflags.txt
+C:\Users\Shane\Desktop\New folder\Android Application\DogeDoor\DogeDoorTests\bin\Debug\DogeDoorTests.dll.mdb
+C:\Users\Shane\Desktop\New folder\Android Application\DogeDoor\DogeDoorTests\obj\Debug\android\assets\DogeDoor.dll.mdb
+C:\Users\Shane\Desktop\New folder\Android Application\DogeDoor\DogeDoorTests\obj\Debug\android\assets\DogeDoorTests.dll.mdb
+D:\ProductForSE3730\Android Application\DogeDoor\DogeDoorTests\bin\Debug\DogeDoorTests.dll
+D:\ProductForSE3730\Android Application\DogeDoor\DogeDoorTests\bin\Debug\DogeDoorTests.pdb
+D:\ProductForSE3730\Android Application\DogeDoor\DogeDoorTests\bin\Debug\DogeDoorTests.DogeDoorTests.apk
+D:\ProductForSE3730\Android Application\DogeDoor\DogeDoorTests\bin\Debug\DogeDoorTests.DogeDoorTests-Signed.apk
+D:\ProductForSE3730\Android Application\DogeDoor\DogeDoorTests\bin\Debug\DogeDoor.dll
+D:\ProductForSE3730\Android Application\DogeDoor\DogeDoorTests\bin\Debug\DogeDoor.pdb
+D:\ProductForSE3730\Android Application\DogeDoor\DogeDoorTests\bin\Debug\DogeDoor.dll.mdb
+D:\ProductForSE3730\Android Application\DogeDoor\DogeDoorTests\obj\Debug\DogeDoorTests.csprojResolveAssemblyReference.cache
+D:\ProductForSE3730\Android Application\DogeDoor\DogeDoorTests\obj\Debug\DogeDoorTests.csproj.CoreCompileInputs.cache
+D:\ProductForSE3730\Android Application\DogeDoor\DogeDoorTests\obj\Debug\DogeDoorTests.dll
+D:\ProductForSE3730\Android Application\DogeDoor\DogeDoorTests\obj\Debug\DogeDoorTests.pdb
+D:\ProductForSE3730\Android Application\DogeDoor\DogeDoorTests\obj\Debug\android\bin\DogeDoorTests.DogeDoorTests.apk
+D:\ProductForSE3730\Android Application\DogeDoor\DogeDoorTests\obj\Debug\res\drawable\icon.png
+D:\ProductForSE3730\Android Application\DogeDoor\DogeDoorTests\obj\Debug\res\values\strings.xml
+D:\ProductForSE3730\Android Application\DogeDoor\DogeDoorTests\obj\Debug\R.cs.flag
+D:\ProductForSE3730\Android Application\DogeDoor\DogeDoorTests\obj\Debug\uploadflags.txt
+D:\ProductForSE3730\Android Application\DogeDoor\DogeDoorTests\bin\Debug\DogeDoorTests.dll.mdb
+D:\ProductForSE3730\Android Application\DogeDoor\DogeDoorTests\obj\Debug\android\assets\DogeDoor.dll.mdb
+D:\ProductForSE3730\Android Application\DogeDoor\DogeDoorTests\obj\Debug\android\assets\DogeDoorTests.dll.mdb
+J:\Fall 2017\Quality\Android Application\DogeDoor\DogeDoorTests\bin\Debug\DogeDoorTests.dll
+J:\Fall 2017\Quality\Android Application\DogeDoor\DogeDoorTests\bin\Debug\DogeDoorTests.pdb
+J:\Fall 2017\Quality\Android Application\DogeDoor\DogeDoorTests\bin\Debug\DogeDoorTests.DogeDoorTests.apk
+J:\Fall 2017\Quality\Android Application\DogeDoor\DogeDoorTests\bin\Debug\DogeDoorTests.DogeDoorTests-Signed.apk
+J:\Fall 2017\Quality\Android Application\DogeDoor\DogeDoorTests\bin\Debug\DogeDoor.dll
+J:\Fall 2017\Quality\Android Application\DogeDoor\DogeDoorTests\bin\Debug\DogeDoor.pdb
+J:\Fall 2017\Quality\Android Application\DogeDoor\DogeDoorTests\bin\Debug\DogeDoor.dll.mdb
+J:\Fall 2017\Quality\Android Application\DogeDoor\DogeDoorTests\obj\Debug\DogeDoorTests.csprojResolveAssemblyReference.cache
+J:\Fall 2017\Quality\Android Application\DogeDoor\DogeDoorTests\obj\Debug\DogeDoorTests.dll
+J:\Fall 2017\Quality\Android Application\DogeDoor\DogeDoorTests\obj\Debug\DogeDoorTests.pdb
+J:\Fall 2017\Quality\Android Application\DogeDoor\DogeDoorTests\obj\Debug\android\bin\DogeDoorTests.DogeDoorTests.apk
+J:\Fall 2017\Quality\Android Application\DogeDoor\DogeDoorTests\obj\Debug\res\drawable\icon.png
+J:\Fall 2017\Quality\Android Application\DogeDoor\DogeDoorTests\obj\Debug\res\values\strings.xml
+J:\Fall 2017\Quality\Android Application\DogeDoor\DogeDoorTests\obj\Debug\R.cs.flag
+J:\Fall 2017\Quality\Android Application\DogeDoor\DogeDoorTests\obj\Debug\uploadflags.txt
+J:\Fall 2017\Quality\Android Application\DogeDoor\DogeDoorTests\bin\Debug\DogeDoorTests.dll.mdb
+J:\Fall 2017\Quality\Android Application\DogeDoor\DogeDoorTests\obj\Debug\android\assets\DogeDoor.dll.mdb
+J:\Fall 2017\Quality\Android Application\DogeDoor\DogeDoorTests\obj\Debug\android\assets\DogeDoorTests.dll.mdb
+J:\Fall 2017\Quality\Android Application\DogeDoor\DogeDoorTests\obj\Debug\DogeDoorTests.dll.mdb
